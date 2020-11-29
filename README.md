@@ -76,11 +76,6 @@ Lastly, you can book the tutor and and you can schedule the number of hours for 
 
 
 
-
-***DISCLAIMER!!!:*** The data may not be accurate and an API was used to fetch the data from this link [https://covid19api.com/](https://covid19api.com/).
-
-
-
  
 [Main_Page]:
 https://github.com/HansGabriel/Magister/blob/main/images/main.png
