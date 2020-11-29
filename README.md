@@ -69,14 +69,14 @@ You can press the recorder icon to start recording and press again to end. The s
 
  
 [Main_Page]:
-https://github.com/HansGabriel/Magister/tree/main/images/main.png
+https://github.com/HansGabriel/Magister/blob/main/images/main.png
 [Details]:
-https://github.com/HansGabriel/Magister/tree/main/images/details.png
+https://github.com/HansGabriel/Magister/blob/main/images/details.png
 [Info]:
-https://github.com/HansGabriel/Magister/tree/main/images/info.png
+https://github.com/HansGabriel/Magister/blob/main/images/info.png
 [Login]:
-https://github.com/HansGabriel/Magister/tree/main/images/login.png
+https://github.com/HansGabriel/Magister/blob/main/images/login.png
 [Review]:
-https://github.com/HansGabriel/Magister/tree/main/images/review.png
+https://github.com/HansGabriel/Magister/blob/main/images/review.png
 [SignUp]:
-https://github.com/HansGabriel/Magister/tree/main/images/signup.png
+https://github.com/HansGabriel/Magister/blob/main/images/signup.png
