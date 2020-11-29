@@ -1,11 +1,82 @@
-# Sample Snack app
+# Magister
+Guiding the learners today, to form the innovators of tomorrow.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+![Main][Main_Page]
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+[Magister Expo Snack - Running Demo](https://snack.expo.io/@mathbasher/magister)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+## Table of contents
+* [General info](#general-info)
+* [Setup](#setup)
+* [How to use](#how-to-tuse)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+## General info
+This project is built using javascript using the react native framework.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+## Setup
+To run this project, make sure you have npm and the expo-cli installed.
+
+```
+$ git clone https://github.com/HansGabriel/Magister.git
+$ cd Magister
+$ npm i -g expo-cli 
+$ npm install
+$ expo start
+```
+
+Once the assets of the app is loaded, you can check the app via ios or android. Although make 
+sure you have installed the **Expo App on your phone**.
+
+
+## How to use
+The app opens up with the login page and prompts the user to enter their email/username and their password.
+
+1.) **Login Page**
+
+![Login][Login]
+
+
+2.) **Getting graphs of deaths, infected, and recoveries per country**
+
+![GraphData][GraphData]
+
+Examples of getting these sentences:
+
+- Can you give me a time graph of infected cases in philippines
+- Can you give me a time graph of deaths in japan
+- Can you give me a graph of recoveries in singapore
+
+3.) **Using Audio**
+
+![AudioData][AudioData]
+
+You can press the recorder icon to start recording and press again to end. The same answers will be the A.I.'s response depending on your sentence.
+
+4.) **Other Examples to try**
+
+
+- Hi
+- Hello, how are you
+- Good bye
+- Who are you?
+- What to do if you are sick
+- What are the symptoms of covid
+- How to prevent the spread of covid
+
+***DISCLAIMER!!!:*** The data may not be accurate and an API was used to fetch the data from this link [https://covid19api.com/](https://covid19api.com/).
+
+
+
+ 
+[Main_Page]:
+https://raw.githubusercontent.com/HansGabriel/Magister/master/images/main.png
+[Details]:
+https://raw.githubusercontent.com/HansGabriel/Magister/master/images/details.png
+[Info]:
+https://raw.githubusercontent.com/HansGabriel/Magister/master/images/info.png
+[Login]:
+https://raw.githubusercontent.com/HansGabriel/Magister/master/images/login.png
+[Review]:
+https://raw.githubusercontent.com/HansGabriel/Magister/master/images/review.png
+[SignUp]:
+https://raw.githubusercontent.com/HansGabriel/Magister/master/images/signup.png
