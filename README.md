@@ -1,7 +1,7 @@
 # Magister
 Guiding the learners today, to form the innovators of tomorrow.
 
-![Main][Main_Page | width=100]
+![](https://github.com/HansGabriel/Magister/blob/main/images/main.png | width=100)
 
 [Magister Expo Snack - Running Demo](https://snack.expo.io/@mathbasher/magister)
 
