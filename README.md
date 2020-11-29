@@ -1,7 +1,7 @@
 # Magister
 Guiding the learners today, to form the innovators of tomorrow.
 
-![Main][Main_Page]
+![Main][Main_Page | width=100]
 
 [Magister Expo Snack - Running Demo](https://snack.expo.io/@mathbasher/magister)
 
@@ -29,39 +29,53 @@ sure you have installed the **Expo App on your phone**.
 
 
 ## How to use
-The app opens up with the login page and prompts the user to enter their email/username and their password.
 
 1.) **Login Page**
+
+The app opens up with the login page and prompts the user to enter their email/username and their password.
 
 ![Login][Login]
 
 
-2.) **Getting graphs of deaths, infected, and recoveries per country**
+2.) **Sign Up**
 
-![GraphData][GraphData]
+In case you don't have an account yet, you may sign up by providing your email, username, and password.
 
-Examples of getting these sentences:
+![SignUp][SignUp]
 
-- Can you give me a time graph of infected cases in philippines
-- Can you give me a time graph of deaths in japan
-- Can you give me a graph of recoveries in singapore
+3.) **Main Page**
 
-3.) **Using Audio**
+After logging in, you get it your main page and you can start browsing for tutors or coaches. There are a variety or options and you can filter based on the subjects. 
 
-![AudioData][AudioData]
-
-You can press the recorder icon to start recording and press again to end. The same answers will be the A.I.'s response depending on your sentence.
-
-4.) **Other Examples to try**
+![Main][Main_Page]
 
 
-- Hi
-- Hello, how are you
-- Good bye
-- Who are you?
-- What to do if you are sick
-- What are the symptoms of covid
-- How to prevent the spread of covid
+4.) **Details**
+
+If you click one of the buttons, you can look at the details and the profile of the coach that you are looking for as well as the price.
+
+![Details][Details]
+
+5.) **Info**
+
+Similarly, you can also look at their background information and bio to know more about the tutor you're interested in,
+
+![Info][Info]
+
+6.) **Review**
+
+You can also check the reviews and ratings of other people on that specific tutor to know about her/his quality.
+
+![Review][Review]
+
+7.) **Book**
+
+Lastly, you can book the tutor and and you can schedule the number of hours for you to meet with him/her.
+
+![Book][Book]
+
+
+
 
 ***DISCLAIMER!!!:*** The data may not be accurate and an API was used to fetch the data from this link [https://covid19api.com/](https://covid19api.com/).
 
@@ -80,3 +94,5 @@ https://github.com/HansGabriel/Magister/blob/main/images/login.png
 https://github.com/HansGabriel/Magister/blob/main/images/review.png
 [SignUp]:
 https://github.com/HansGabriel/Magister/blob/main/images/signup.png
+[Book]:
+https://github.com/HansGabriel/Magister/blob/main/images/book.png
